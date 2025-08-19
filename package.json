@@ -26,12 +26,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/easy-paypal-api.git"
+    "url": "https://github.com/ThaYTOfficial/EzPaypal.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/easy-paypal-api/issues"
+    "url": "https://github.com/ThaYTOfficial/EzPaypal/issues"
   },
-  "homepage": "https://github.com/yourusername/easy-paypal-api#readme",
+  "homepage": "https://github.com/ThaYTOfficial/EzPaypal#readme",
   "dependencies": {
     "axios": "^1.6.0",
     "dotenv": "^16.3.1"
